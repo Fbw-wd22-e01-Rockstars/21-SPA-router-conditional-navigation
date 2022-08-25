@@ -37,7 +37,6 @@ h1 {
 input {
   width: 13rem;
   padding: 0.5rem;
-  color: white;
   cursor: pointer;
   transition: 0.5s;
   font-size: 0.8rem;
